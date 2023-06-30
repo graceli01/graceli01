@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Grace</h1>
-<h3 align="center">A curious Business Analyst based in Canifornia</h3>
+<h3 align="center">A Business Analyst based in Canifornia</h3>
 
 - 🎓 Bachelor of Science in Business Analytics, Concentrated in Marketing Strategy & Analytics, GWU AlUMNI
 
 - 🌱 Currently pursuing a MSBA pogram **at USC**
 
 - 👨‍💻 All of my BA major related projects are available at [https://github.com/graceli01/BDAportfolio](https://github.com/graceli01/BDAportfolio)
+
+- 📄 Know about my experiences through [Grace Li Resume](https://github.com/graceli01/BDAportfolio/blob/76318f1a201c2aff21ed3e5d6dfda9ffc18a9432/Grace%20Li_BA_Resume_Summer%202023.pdf)
 
 - 📫 How to reach me **graceli.w01@gmail.com**
 
@@ -15,6 +17,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<p align="left">
 <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="R" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="center" height=35 alt="JMP" width="40px"
@@ -26,7 +29,8 @@ src="https://mb.cision.com/Public/9602/2082588/92474d4054bf3d17_800x800ar.png" /
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 </p>
 
-<p align="left">
 <h3 align="left">Certificate:</h3>
-<img align="left" alt="Google Analytics" width="90px" src="https://laolaweb.com/wp-content/uploads/2022/07/Google-Analytics-Logo-2019-present.png" />
+<p align="left">
+<img align="left" alt="Google Analytics" width="120px" src="https://laolaweb.com/wp-content/uploads/2022/07/Google-Analytics-Logo-2019-present.png" /></a>
+</p>
 
