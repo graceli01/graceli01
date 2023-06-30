@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Grace</h1>
 <h3 align="center">A curious Business Analyst based in Canifornia</h3>
 
-- 🎓 Bachelor of Science in **Business Analytics**, Concentrated in **Marketing Strategy & Analytics**, GWU AlUMNI
+- 🎓 Bachelor of Science in Business Analytics, Concentrated in Marketing Strategy & Analytics, GWU AlUMNI
 
 - 🌱 Currently pursuing a MSBA pogram **at USC**
 
