@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Grace</h1>
-<h3 align="center">A curious business analyst based in Canifornia</h3>
+<h3 align="center">A curious Business Analyst based in Canifornia</h3>
 
 - 🌱 **Major in Business Analytics**, GWU ALUMNI, currently pursuing a MSBA degree **at USC**
 
