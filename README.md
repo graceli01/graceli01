@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Grace</h1>
 <h3 align="center">A curious Business Analyst based in Canifornia</h3>
 
-- 🌱 **Major in Business Analytics**, GWU ALUMNI, currently pursuing a MSBA degree **at USC**
+- 🎓 Bachelor of Science in Business Analytics, Concentrated in Marketing Strategy & Analytics , GWU AlUMNI
+
+- 🌱 Currently pursuing a MSBA pogram **at USC**
 
 - 👨‍💻 All of my projects are available at [https://github.com/graceli01/BDAportfolio](https://github.com/graceli01/BDAportfolio)
 
