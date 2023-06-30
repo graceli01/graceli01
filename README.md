@@ -5,7 +5,7 @@
 
 - 🌱 Currently pursuing a MSBA pogram **at USC**
 
-- 👨‍💻 All of my projects are available at [https://github.com/graceli01/BDAportfolio](https://github.com/graceli01/BDAportfolio)
+- 👨‍💻 All of my BA major related projects are available at [https://github.com/graceli01/BDAportfolio](https://github.com/graceli01/BDAportfolio)
 
 - 📫 How to reach me **graceli.w01@gmail.com**
 
