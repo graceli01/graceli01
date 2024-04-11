@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my machine learning related projects are available at [https://github.com/graceli01/BDAportfolio](https://github.com/graceli01/BDAportfolio)
 
-- 📄 Know about my experiences through [Grace Li Resume]([https://github.com/graceli01/BDAportfolio/blob/main/Grace_Li_Data_AI_Resume.pdf])
+- 📄 Know about my experiences through [Grace Li Resume][https://github.com/graceli01/BDAportfolio/blob/main/Grace_Li_Data_AI_Resume.pdf]
 
 - 📫 How to reach me **liyongji@marshall.usc.edu**
 
