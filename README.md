@@ -26,7 +26,7 @@ src="https://mb.cision.com/Public/9602/2082588/92474d4054bf3d17_800x800ar.png" /
 <img align="left" alt="Visual Studio Code" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /></a>
 </p>
 
-<h3 align="left">Certificate:</h3>
+<h3 align="left">Certificates:</h3>
 <p align="left">
 <img align="left" alt="Google Analytics" width="120px" src="https://laolaweb.com/wp-content/uploads/2022/07/Google-Analytics-Logo-2019-present.png" /></a>
 </p>
