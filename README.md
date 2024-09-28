@@ -1,14 +1,10 @@
 <h1 align="center">Hi 👋, I'm Grace</h1>
-<h3 align="center">An Analyst utilize data and AI to drive growth</h3>
+<h3 align="center">Data Analytics Professional, Concentrated In Marketing Analytics</h3>
 
-- 🎓 Bachelor of Science in Business Analytics, Concentrated in Marketing Strategy & Analytics, GWU AlUMNI
-
-- 🌱 Currently pursuing a MSBA pogram **at USC**
-
+- ✌️ USC Master of Science in Business Analytics
+- 🎓 GWU Alumni, Bachelor of Science in Business Analytics, Concentrated in Marketing Strategy & Analytics
+- ✴️ Checkout my tableau samples at: [Grace Tableau Dashboards Repository](https://github.com/graceli01/tableau_dashboards/blob/main/README.md)
 - 👨‍💻 All of my machine learning related projects are available at [https://github.com/graceli01/BDAportfolio](https://github.com/graceli01/BDAportfolio)
-
-- 📄 Know about my experiences through [Grace Li Resume](https://github.com/graceli01/BDAportfolio/blob/main/Grace_Li_Data_AI_Resume.pdf)
-
 - 📫 How to reach me **liyongji@marshall.usc.edu**
 
 <h3 align="left">Connect with me:</h3>
