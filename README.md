@@ -5,7 +5,7 @@
 - ✌️ USC Master of Science in Business Analytics
 - 🎓 GWU Alumni, Bachelor of Science in Business Analytics, Concentrated in Marketing Strategy & Analytics
 - ✴️ Checkout my tableau samples at: **[Grace's Tableau Dashboards Repository](https://github.com/graceli01/tableau_dashboards/blob/main/README.md)**
-- 👩‍💻 All of my machine learning related projects are available at: **[My BDAportfolio](https://github.com/graceli01/BDAportfolio)**
+- 👩‍💻 More for analytics & machine learning related projects are available at: **[My BDAportfolio](https://github.com/graceli01/BDAportfolio)**
 - 📫 How to reach me: **liyongji@marshall.usc.edu**
 
 <h3 align="left">Connect with me:</h3>
